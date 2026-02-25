@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @sann-tech
 
-![Profile Banner](https://img.shields.io/badge/Welcome-to-my-GitHub-blue?style=for-the-badge)
-
 ### 💻 About Me
-I’m a passionate **web developer** constantly exploring new technologies and improving my skills. I love building **clean, responsive, and interactive websites**.  
+I’m a passionate **web developer** exploring new technologies and improving my skills. I love building **interactive and responsive websites**.  
 
 ### 🌱 Currently Learning
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
@@ -11,7 +9,7 @@ I’m a passionate **web developer** constantly exploring new technologies and i
 - **Dev Tools:** Git, GitHub, VS Code  
 
 ### 🤝 Let’s Collaborate
-I’m open to **collaborations** and love contributing to open-source projects. Feel free to **message me**!  
+I’m open to **collaborations**! Feel free to **message me**.  
 
 ### 📫 Contact Me
 - 📧 Email: **your-email@example.com**  
@@ -21,7 +19,7 @@ I’m open to **collaborations** and love contributing to open-source projects. 
 He/Him  
 
 ### ⚡ Fun Fact
-I get a little crazy sometimes 😜, but that’s how I stay creative!  
+I get a little crazy sometimes 😜, but that keeps me creative!  
 
 ---
 
@@ -38,10 +36,5 @@ I get a little crazy sometimes 😜, but that’s how I stay creative!
 ---
 
 ### 📊 GitHub Stats
-![sann-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=sann-tech&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sann-tech&layout=compact&theme=radical)
-
----
-
-### 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/sann-tech/count.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sann-tech&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sann-tech&layout=compact&theme=tokyonight)

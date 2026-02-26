@@ -12,7 +12,7 @@ I’m a passionate **web developer** exploring new technologies and improving my
 I’m open to **collaborations**! Feel free to **message me**.  
 
 ### 📫 Contact Me
-- 📧 Email: **your-email@example.com**  
+- 📧 Email: **sanberja007@gmail.com**  
 - 💬 GitHub Messages: [Send me a message](https://github.com/messages/compose)  
 
 ### 😄 Pronouns

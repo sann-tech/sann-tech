@@ -1,29 +1,21 @@
-# 👋 Hi, I’m @sann-tech
+<div align="center">
+
+# 👋 Hey, I'm @sann-tech
+
+**Web Developer · Builder of Interactive & Responsive Websites**
+
+</div>
+
+---
 
 ### 💻 About Me
-I’m a passionate **web developer** exploring new technologies and improving my skills. I love building **interactive and responsive websites**.  
 
-### 🌱 Currently Learning
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** PHP, Node.js  
-- **Dev Tools:** Git, GitHub, VS Code  
-
-### 🤝 Let’s Collaborate
-I’m open to **collaborations**! Feel free to **message me**.  
-
-### 📫 Contact Me
-- 📧 Email: **sanberja007@gmail.com**  
-- 💬 GitHub Messages: [Send me a message](https://github.com/messages/compose)  
-
-### 😄 Pronouns
-He/Him  
-
-### ⚡ Fun Fact
-I get a little crazy sometimes 😜, but that keeps me creative!  
+I'm a passionate **web developer** who loves turning ideas into clean, functional, and beautiful web experiences. I enjoy building things that live on the internet and constantly push myself to write better code.
 
 ---
 
 ### 🛠️ Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,5 +28,25 @@ I get a little crazy sometimes 😜, but that keeps me creative!
 ---
 
 ### 📊 GitHub Stats
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sann-tech&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sann-tech&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to **collaborations and projects** — let's build something great together!
+
+- 📧 **Email:** sanberja007@gmail.com
+- 💬 **GitHub:** [Send me a message](https://github.com/messages/compose)
+
+<div align="center">
+
+*He/Him · Gets a little crazy sometimes 😜 — and that's what keeps the creativity alive!*
+
+</div>

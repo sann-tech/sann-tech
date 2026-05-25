@@ -15,7 +15,6 @@
 
 - 💻 Developing modern web applications
 - 🎨 Passionate about UI/UX Design
-- 🚌 Building booking systems and tourism platforms
 - 🌱 Currently learning advanced backend architecture
 - ⚡ Love clean and responsive interfaces
 
@@ -38,28 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 📌 Featured Projects
-
-## 🚌 CaraVan Booking System
-Online van ticket booking platform for routes going to Caramoan.
-
-- Seat reservation system
-- Admin dashboard
-- Online booking flow
-- Modern UI/UX
-
----
-
-## 🌴 Caramoan Travel Guide
-Tourism website showcasing islands, tours, accommodations, and travel agencies.
-
-- Island gallery
-- Tour listings
-- Accommodation directory
-- Travel information hub
 
 ---
 
